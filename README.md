@@ -25,9 +25,9 @@
 
 ## Conclusion
 > These results indicate, that the power generation detailed in the data is affected by major factors like humidity, rainfall and wind speed. Given the multiple and diverse foreseen applications of the dataset, we consider it outside the scope of this manuscript to attempt a full evaluation of the dataset’s efficiency for various applications. Instead, we focused to identify caveats and limitations for their use case, to provide visualization for the people to evolve and understand the importance of renewable energy i.e., Solar Energy and the factors that affect them.
+<br> 
+• Power Generation is Proportional to Wind Speed
 
-> • Power Generation is Proportional to Wind Speed
-> 
 • Power Generation is Proportional to Radiation
 
 • Power Generation is Inversely Proportional to Humidity
