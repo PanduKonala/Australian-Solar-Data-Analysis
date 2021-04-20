@@ -1,6 +1,6 @@
 ![](https://github.com/PanduKonala/PanduKonala/blob/main/header_.png)
 <br>
-# [Australian Solar Data Analysis](https://pandukonala.github.io/blog-work/solar_data/solar_data.html)
+# [Australian Solar Data Analysis](https://pandukonala.github.io/blog-projects/solar_data/solar_data.html)
 ## Note
 > Since the project is huge to upload in GitHub, I have compressed the project into multiple files. Download all and then extract.
 
