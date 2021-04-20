@@ -31,16 +31,17 @@
 • Power Generation is Inversely Proportional to Rainfall
 
 > From the Analysis, we can conclude the following:
-> • Maximum temperature recorded: 51.26 C 
-• Maximum Humidity recorded: 102.89
+> 
+• Maximum temperature recorded: 51.26 C
 
-• Maximum global horizontal radiation recorded:  2725.60
+• Maximum Humidity recorded: 102.89 g/m3
 
-• Maximum diffuse horizontal radiation: 2134.98
+• Maximum global horizontal radiation recorded:  2725.60 W/m²
 
-• Maximum Rainfall recorded: 67.199
+• Maximum diffuse horizontal radiation: 2134.98 W/m²
 
-• Maximum wind speed recorded:54.39
+• Maximum Rainfall recorded: 67.199 mm
+
+• Maximum wind speed recorded:54.39 Kmph
 
 • The active power is 3.67kW which was recorded when the radiation was high.
-
